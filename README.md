@@ -2,7 +2,7 @@
 
 As one of Taylor Swift's listeners since 2010, I thought it will be fun to do a data science and machine learning project using a dataset of her concert from Fearless Tour to Reputation Stadium Tour. Not gonna lie, I'm having so much fun doing this project! Not to mention, this is my first ever proper data science project yet it is so complex because the dataset is pretty dirty.
 
-A little bit of background about this project, basically I analyzed Taylor Swift's concert and made a revenue prediction. I unexpectedly got the dataset from Kaggle.com. I got to learn and practice a LOT of data wrangling, data manipulation, data visualization, and lastly, did feature engineering and built my first ML model independently. Prior to this project, I have learned basic-intermediate statistics from Krish Naik's youtube and learn machine learning algorithms, feature scaling, and encoding on Udemy
+A little bit of background about this project, basically I analyzed Taylor Swift's concert and made a revenue prediction. I unexpectedly got the dataset from Kaggle.com. I got to learn and practice a LOT of data wrangling, data manipulation, data visualization, and lastly, did feature engineering and built my first ML model independently. Prior to this project, I learned basic-intermediate statistics from Krish Naik's youtube and learn machine learning algorithms (so far I have learned regression and classification), feature scaling, and encoding on Udemy since July 14, 2023.
 
 ## What is in my project...
 This project consists of 4 parts;
@@ -34,8 +34,10 @@ as they all gave different results.
 3) Revenue Prediction
    I attempted to do 2 different algorithms; Multiple Linear Regression & Decision Tree Regressor.
    For Multiple Linear, I got a 94% score but the error is too huge, around 25%
-   While on Decision Tree Regressor, I got a 97% score with a 9% error (using LabelEncoding) and a 95% score with a 12% error (with One-Hot Encoding)
-   I also did cross-validation. For the one that used LabelEncoding, I got a 94% average score and for one-hot encoding, I got a 93% average score.
+   While on Decision Tree Regressor, I got a 97% score with a 9% error (using LabelEncoding)
+   and 95% score with a 12% error (with One-Hot Encoding)
+   I also did cross-validation. For the one that used LabelEncoding, I got a 94% average score
+   and for one-hot encoding, I got a 93% average score.
 
 ## What I should improve next...
 1) try to implement oversampling, because there are hundreds of shows with opening acts and only around 20+ shows without opening acts. I think it can be a bias
