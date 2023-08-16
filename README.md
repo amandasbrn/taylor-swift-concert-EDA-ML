@@ -33,11 +33,11 @@ as they all gave different results.
    I do a little bit of descriptive statistics and make a few visualizations, mostly with Seaborn. I analyzed ticket price and tour revenue. Since most of the shows had opening acts, I attempted to analyze the price and revenue with/without opening acts. I got a meal full of insights right there.
 3) Revenue Prediction
    I attempted to do 2 different algorithms; Multiple Linear Regression & Decision Tree Regressor.
-   For Multiple Linear, I got a 94% score but the error is too huge, around 25%
-   While on Decision Tree Regressor, I got a 97% score with a 9% error (using LabelEncoding)
+   <p>For Multiple Linear, I got a 94% score but the error is too huge, around 25%
+   <p>While on Decision Tree Regressor, I got a 97% score with a 9% error (using LabelEncoding)
    and 95% score with a 12% error (with One-Hot Encoding)
-   I also did cross-validation. For the one that used LabelEncoding, I got a 94% average score
-   and for one-hot encoding, I got a 93% average score.
+   <p>I also did cross-validation. For the one that used LabelEncoding, I got a 94% average score
+   and for one-hot encoding, I got a 93% average score.</p>
 
 ## What I should improve next...
 1) try to implement oversampling, because there are hundreds of shows with opening acts and only around 20+ shows without opening acts. I think it can be a bias
