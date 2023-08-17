@@ -6,7 +6,7 @@ A little bit of background about this project, basically I analyzed Taylor Swift
 
 ## What is in my project...
 This project consists of 4 parts;
-1) Data wrangling
+1) Data preprocessing
 2) Exploratory Data Analysis
 3) Machine Learning - Revenue prediction with Decision Tree Regressor
 4) Revenue prediction for Taylor Swift's The Eras Tour in Singapore
