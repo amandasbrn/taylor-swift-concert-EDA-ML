@@ -44,6 +44,7 @@ as they all gave different results.
 2) try to reduce error
 3) pay attention to the correlations
 4) use another advanced algorithm
+5) implement more complex python syntax (for example; use functions to simplify the codes)
 
 ## My resources...
 1) Krish Naik's youtube
