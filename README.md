@@ -1,4 +1,4 @@
-# Taylor Swift Concert Data Wrangling, EDA, Revenue Prediction
+# Taylor Swift Concert Data Preprocessing, EDA, Revenue Prediction
 
 As one of Taylor Swift's listeners since 2010, I thought it will be fun to do a data science and machine learning project using a dataset of her concert from Fearless Tour to Reputation Stadium Tour. Not gonna lie, I'm having so much fun doing this project! Not to mention, this is my first ever proper data science project yet it is so complex because the dataset is pretty dirty.
 
